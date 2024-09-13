@@ -1,0 +1,22 @@
+Project A - Traffic Sign Detection System
+
+The image dataset can be obtained from this link: http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html
+
+How to run the tsd.py
+
+Type in command prompt:
+python tsd.py --fn image_path
+
+*Replace the image_path above with the actual image path
+**Make sure you download all the file and the test images are located in the working directory
+
+Develop by Group 4:
+
+Leader: 
+Raymond Tan Zhi Yong	2104090 
+
+Member:
+Tan Xin Sheng	2104653
+Khor Jia Feng	2104539
+Nga Ke Jie	2204431
+
